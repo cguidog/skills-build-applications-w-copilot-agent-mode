@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-(yt^s%emgqpn8be(c3_rhlvo9syv0c6u=p&!q^pygfj*_!a3w=
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'effective-goggles-j4rww96xrxp3qqvq-8000.app.github.dev']
 
 
 # Application definition
